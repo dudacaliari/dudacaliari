@@ -1,8 +1,8 @@
 ## Bem-vindo ao meu perfil! Eu sou Eduarda Caliari.
 
 <div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudacaliari&theme=dracula&hide_langs_below=1" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=dudacaliari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudacaliari&theme=tokyonight&hide_langs_below=1" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=dudacaliari&show_icons=true&theme=tokyonight"/>
 </div>
 
 <!--
